@@ -20,7 +20,7 @@ jobs:
       - run : |
           chmod +x ./packwiz
       - run: |
-          ./packwiz cf export -o export.zip
+          ./packwiz mr export -o export.zip
       - name: Upload Release
         uses: softprops/action-gh-release@v1
         with:
