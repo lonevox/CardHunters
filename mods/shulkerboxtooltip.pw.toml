@@ -1,0 +1,13 @@
+name = "Shulker Box Tooltip"
+filename = "shulkerboxtooltip-neoforge-5.1.7+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2M01OLQq/versions/NarvrcDF/shulkerboxtooltip-neoforge-5.1.7%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "6225a31e801fce8e3c733d9f072fb95b1bbe99d87538095033239d7724652f9462a1b5a27fbc67ba51002b1b019b8670068e8aabc10411c762d712409f849499"
+
+[update]
+[update.modrinth]
+mod-id = "2M01OLQq"
+version = "NarvrcDF"
