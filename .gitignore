@@ -1,0 +1,40 @@
+# Ignore everything by default. The rest of the file is unignoring things.
+/*
+
+# mods
+!/mods
+/mods/.index
+/mods/*.jar*
+/mods/*.disabled
+
+# resource packs
+!/resourcepacks
+/resourcepacks/*
+!/resourcepacks/*.pw.toml
+
+# config
+!/defaultconfigs
+!/config
+/config/*
+# Include mod configs here like so:
+# !/config/my_mod_config.json
+
+
+## Git-specific inclusions. These are not in .packwizignore ##
+
+# git
+!.gitignore
+!.gitattributes
+!/.github
+
+# packwiz
+!.packwizignore
+!index.toml
+!pack.toml
+!packwiz-installer-bootstrap.jar
+!packwiz-download-latest.sh
+!packwiz-download-latest.bat
+
+# md
+!README.md
+!CONTRIBUTING.md

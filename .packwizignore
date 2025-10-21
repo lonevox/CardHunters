@@ -1,0 +1,20 @@
+# Ignore everything by default. The rest of the file is unignoring things.
+/*
+
+# mods
+!/mods
+/mods/.index
+/mods/*.jar*
+/mods/*.disabled
+
+# resource packs
+!/resourcepacks
+/resourcepacks/*
+!/resourcepacks/*.pw.toml
+
+# config
+!/defaultconfigs
+!/config
+/config/*
+# Include mod configs here like so:
+# !/config/my_mod_config.json
