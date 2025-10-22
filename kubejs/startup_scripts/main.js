@@ -1,3 +1,5 @@
-// Visit the wiki for more info - https://kubejs.com/
-console.info('Hello, World! (Loaded startup example script)')
-
+StartupEvents.registry('item', event => {
+	// Cards
+	event.create('enderman_card');
+	event.create('trial_key_card');
+});

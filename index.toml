@@ -1,6 +1,46 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/enderman_card.png"
+hash = "ac69e5df79122c4b415004548309e8756ef00e68655f9159637dd0a668835bff"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/trial_key_card.png"
+hash = "ac69e5df79122c4b415004548309e8756ef00e68655f9159637dd0a668835bff"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "8829bc4c2b29cf3812203caa405c76845590db13209913e6e17e237578ceb5e5"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "f38d326943014d6906916a9387c75e2bfd609fce10e92049d76a395c5775b6f1"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "c5bb7789527e27eab525cbfeb658a9419c7c5830fd6c2d6b379b6fbe4df0480a"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "81f0f2d89c41eac32821cdc1652c089f152c6b78d4717fee4aeab1ccafc2c1ba"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "262b536cd27b0fbb0a2860a2cddb60283650ffddc98f743b9af3b3622a394edb"
+
+[[files]]
+file = "kubejs/startup_scripts/util.js"
+hash = "be035606f7753d4f8078953f1b3e8047203c3829b0795bd501995d957eab1501"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
 metafile = true
