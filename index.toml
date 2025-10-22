@@ -61,6 +61,11 @@ hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "ec2cfea39ef0e01a94bf83738349e2b927178127bbe248f6edb2ed020eb406f3"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
 metafile = true
@@ -83,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "939c71e9b7d893e65560ada8a5b7ad0c8f000db400ddbec814e038d2a2cb99c0"
 metafile = true
 
 [[files]]
