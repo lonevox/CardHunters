@@ -131,6 +131,11 @@ hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
+file = "mods/loot-beams-refork.pw.toml"
+hash = "bd0df74b439b6df68bc0a6466a709b66bf25f42c84d2fcb67e3675469c3b5d14"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
 metafile = true
@@ -138,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/nirvana-library.pw.toml"
+hash = "6048c4793611860f18d124f2e52c019a6e90f62c03c453d2bf9fbdaa29ac97f3"
 metafile = true
 
 [[files]]
