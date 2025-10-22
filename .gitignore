@@ -19,6 +19,9 @@
 # Include mod configs here like so:
 # !/config/my_mod_config.json
 
+#kubejs
+!/kubejs
+
 
 ## Git-specific inclusions. These are not in .packwizignore ##
 
