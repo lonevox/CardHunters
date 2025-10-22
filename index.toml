@@ -66,6 +66,11 @@ hash = "0603752f5a3db14a380597c84cdb80c3b66564a69d8c7f5c4f1d35c4f2a32924"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "95218d2192befc4f1f60adda3e7898f38af351df02f78e1e481b77a8afd6d01c"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "e7d3f7e0472ba9a3ef946fa5defcb157e4126636e603c2306d4ad6065936d5e2"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "076be436a9dd1df44f71473123db01ad52b26afce495615d91ec5150e1960d98"
 metafile = true
 
 [[files]]
