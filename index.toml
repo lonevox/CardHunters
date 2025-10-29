@@ -10,11 +10,19 @@ hash = "ac69e5df79122c4b415004548309e8756ef00e68655f9159637dd0a668835bff"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/trial_key_card.png"
-hash = "ac69e5df79122c4b415004548309e8756ef00e68655f9159637dd0a668835bff"
+hash = "6fa6e38143ab9f6daf70f3af7b219b5e08a5bac72e075f18b214fa0f92349d99"
+
+[[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "0bbdb4b618f793cd4f63df515fd291e9ec15b7ff8c75744717c7ab468e9b2172"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
-hash = "8829bc4c2b29cf3812203caa405c76845590db13209913e6e17e237578ceb5e5"
+hash = "a9b27948dc4ac9c14f2955ddca25fe5ac8298b692b5a6fcb79cbb7bceea03b5c"
+
+[[files]]
+file = "kubejs/client_scripts/tooltips.js"
+hash = "7e49f31450aff611a789f00d655f9a3a0d0c63cac7af75471fb485327d789b13"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -25,12 +33,32 @@ file = "kubejs/config/common.json"
 hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "c29b72baf98b58d545a2218beb4c8afff59e5f47499f92e89c0d746fe8327f4c"
+
+[[files]]
 file = "kubejs/config/web_server.json"
 hash = "c5bb7789527e27eab525cbfeb658a9419c7c5830fd6c2d6b379b6fbe4df0480a"
 
 [[files]]
-file = "kubejs/server_scripts/main.js"
-hash = "81f0f2d89c41eac32821cdc1652c089f152c6b78d4717fee4aeab1ccafc2c1ba"
+file = "kubejs/server_scripts/cards.js"
+hash = "f68a2afc9a2ed0bf8ffdb663fe21b71e827cf0edf7d8b45186d489e4f045a496"
+
+[[files]]
+file = "kubejs/server_scripts/item_deposit.js"
+hash = "09c53947a4f42db68ce0b07d4e9b8c4757c51772c597faf63112e43c5109c8ca"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "ecbeb788ddebbc1bbd47e68e16f2c8aed37f0d15d2f692734e21d88937f49228"
+
+[[files]]
+file = "kubejs/startup_scripts/item_deposit_functions.js"
+hash = "248c14b9dc868a7dc86152d8e83f1f663cd216d4b999340897cfd1006044f3a1"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "5d1d34f9763eb77f2e30b9fb62a8f4f056149b2c162b113157265ddef1b8dad3"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -38,7 +66,7 @@ hash = "262b536cd27b0fbb0a2860a2cddb60283650ffddc98f743b9af3b3622a394edb"
 
 [[files]]
 file = "kubejs/startup_scripts/util.js"
-hash = "be035606f7753d4f8078953f1b3e8047203c3829b0795bd501995d957eab1501"
+hash = "57293e4739c31e5cfc9d0f8e857c8fa16b5ebb54b2d8bace64cab32121946adb"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -334,6 +362,10 @@ metafile = true
 file = "mods/xaeros-minimap.pw.toml"
 hash = "9d76c3683cfea5c5976823a000eacc9944db9f097894356d2a029cf36642ffa4"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.6.1.zip.txt"
+hash = "71082251dd89efb4bb43d33643d0e8d926fafe4f68d3ff2fcc838bc6137f9ddb"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

@@ -12,6 +12,12 @@
 /resourcepacks/*
 !/resourcepacks/*.pw.toml
 
+# shader packs
+!/shaderpacks
+/shaderpacks/*
+!/shaderpacks/*.pw.toml
+!/shaderpacks/ComplementaryReimagined_r5.6.1.zip.txt
+
 # config
 !/defaultconfigs
 !/config
