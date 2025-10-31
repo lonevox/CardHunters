@@ -6,7 +6,11 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/enderman_card.png"
-hash = "ac69e5df79122c4b415004548309e8756ef00e68655f9159637dd0a668835bff"
+hash = "e7158121fe826a5536a2bc9539d97b65042968e51e8534e8ac45306f5c8ba922"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/lantern_card.png"
+hash = "138be4398437a834ea381fc12f4c149ead91d1d7ac37d6a757657a8289042703"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/trial_key_card.png"
@@ -19,6 +23,10 @@ hash = "0bbdb4b618f793cd4f63df515fd291e9ec15b7ff8c75744717c7ab468e9b2172"
 [[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "a9b27948dc4ac9c14f2955ddca25fe5ac8298b692b5a6fcb79cbb7bceea03b5c"
+
+[[files]]
+file = "kubejs/client_scripts/placement.js"
+hash = "582bec96b64622bdffa771684f1498c63f5203f163ac9468f6d0eccf4e6020c3"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
@@ -34,7 +42,7 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
-hash = "c29b72baf98b58d545a2218beb4c8afff59e5f47499f92e89c0d746fe8327f4c"
+hash = "434e90a651454090d64ca93511b015285bedcc6ad98a862105be179b9a74308c"
 
 [[files]]
 file = "kubejs/config/web_server.json"
@@ -62,7 +70,7 @@ hash = "5d1d34f9763eb77f2e30b9fb62a8f4f056149b2c162b113157265ddef1b8dad3"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
-hash = "262b536cd27b0fbb0a2860a2cddb60283650ffddc98f743b9af3b3622a394edb"
+hash = "251fafb3e23f31534a424c5bef8c013b16eae2c0e76b82b6e74873f22a943034"
 
 [[files]]
 file = "kubejs/startup_scripts/util.js"
@@ -365,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.6.1.zip.txt"
-hash = "71082251dd89efb4bb43d33643d0e8d926fafe4f68d3ff2fcc838bc6137f9ddb"
+hash = "606414ef3e197966e1e8cf0ba38e44fe9681ee56d51b749b84cb754e95a84189"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
