@@ -1,9 +1,7 @@
-let $PlacementClient  = Java.loadClass("net.createmod.catnip.placement.PlacementClient");
+let $BlockTarget = Java.loadClass("com.lonevox.cardhunterscore.BlockTarget")
 
 BlockEvents.rightClicked((event) => {
 	const { player, block } = event;
 
-	console.log("Registering placement client script");
-	console.log($PlacementClient.target);
-	console.log(JSON.stringify($PlacementClient, null, 2));
+	$BlockTarget.blockTarget = block.getPos();
 });

@@ -26,7 +26,7 @@ hash = "a9b27948dc4ac9c14f2955ddca25fe5ac8298b692b5a6fcb79cbb7bceea03b5c"
 
 [[files]]
 file = "kubejs/client_scripts/placement.js"
-hash = "582bec96b64622bdffa771684f1498c63f5203f163ac9468f6d0eccf4e6020c3"
+hash = "efa81ca325c8aea0c0924f7c8014ad08889778c79e38ec64f9bbed80396733b4"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
@@ -42,7 +42,7 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
-hash = "434e90a651454090d64ca93511b015285bedcc6ad98a862105be179b9a74308c"
+hash = "e7f66959876333e6ebb47790be63705a2999729ebf637adf7db7a405949a45ea"
 
 [[files]]
 file = "kubejs/config/web_server.json"
@@ -115,6 +115,10 @@ metafile = true
 file = "mods/building-gadgets.pw.toml"
 hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
 metafile = true
+
+[[files]]
+file = "mods/cardhunterscore-1.0.0.jar"
+hash = "32b9b824264cb3ecd54fb9bd23eaa3e8646c1537a8d7156dd90092ddd9c6d5d9"
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"

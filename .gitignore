@@ -6,6 +6,7 @@
 /mods/.index
 /mods/*.jar*
 /mods/*.disabled
+!/mods/cardhunterscore-1.0.0.jar
 
 # resource packs
 !/resourcepacks
