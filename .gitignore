@@ -42,7 +42,7 @@
 !pack.toml
 !packwiz-installer-bootstrap.jar
 !packwiz-download-latest.sh
-!packwiz-download-latest.bat
+!packwiz-download-latest.ps1
 
 # md
 !README.md
